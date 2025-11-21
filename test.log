@@ -98,3 +98,41 @@ bash: rsync: command not found
 [2025-11-06 12:51:20] INFO: Checksum saved: backup-2025-11-06-1251.tar.gz.sha256
 [2025-11-06 12:51:21] SUCCESS: Backup verified successfully
 [2025-11-06 12:51:23] INFO: Backup process completed
+[2025-11-21 11:21:58] INFO: Backup script started
+[2025-11-21 11:21:58] INFO: Copied /c/Users/lenovo/OneDrive/Desktop/DevopsExample/DevOps-Practice-Test/backup-system/test_source to temp
+[2025-11-21 11:21:58] SUCCESS: Backup created: backup-2025-11-21-1121.tar.gz
+[2025-11-21 11:21:59] INFO: Checksum saved: backup-2025-11-21-1121.tar.gz.sha256
+[2025-11-21 11:21:59] SUCCESS: Backup verified successfully
+[2025-11-21 11:22:00] INFO: Deleted old backup: backup-2025-11-06-1150.tar.gz
+[2025-11-21 11:22:00] INFO: Deleted old backup: backup-2025-11-06-1154.tar.gz
+[2025-11-21 11:22:00] INFO: Deleted old backup: backup-2025-11-06-1155.tar.gz
+[2025-11-21 11:22:01] INFO: Deleted old backup: backup-2025-11-06-1226.tar.gz
+[2025-11-21 11:22:01] INFO: Deleted old backup: backup-2025-11-06-1232.tar.gz
+[2025-11-21 11:22:01] INFO: Deleted old backup: backup-2025-11-06-1236.tar.gz
+[2025-11-21 11:22:02] INFO: Deleted old backup: backup-2025-11-06-1237.tar.gz
+[2025-11-21 11:22:02] INFO: Deleted old backup: backup-2025-11-06-1251.tar.gz
+[2025-11-21 11:22:03] INFO: Backup process completed
+[2025-11-21 11:22:13] INFO: Backup script started
+[2025-11-21 11:22:13] INFO: Copied /c/Users/lenovo/OneDrive/Desktop/DevopsExample/DevOps-Practice-Test/backup-system/test_source to temp
+[2025-11-21 11:22:13] SUCCESS: Backup created: backup-2025-11-21-1122.tar.gz
+[2025-11-21 11:22:14] INFO: Checksum saved: backup-2025-11-21-1122.tar.gz.sha256
+[2025-11-21 11:22:14] SUCCESS: Backup verified successfully
+[2025-11-21 11:22:15] INFO: Backup process completed
+[2025-11-21 11:22:35] INFO: Backup script started
+[2025-11-21 11:22:36] INFO: Copied /c/Users/lenovo/OneDrive/Desktop/DevopsExample/DevOps-Practice-Test/backup-system/test_source to temp
+[2025-11-21 11:22:36] SUCCESS: Backup created: backup-2025-11-21-1122.tar.gz
+[2025-11-21 11:22:36] INFO: Checksum saved: backup-2025-11-21-1122.tar.gz.sha256
+[2025-11-21 11:22:36] SUCCESS: Backup verified successfully
+[2025-11-21 11:22:37] INFO: Backup process completed
+[2025-11-21 11:22:57] INFO: Backup script started
+[2025-11-21 11:22:57] INFO: Copied /c/Users/lenovo/OneDrive/Desktop/DevopsExample/DevOps-Practice-Test/backup-system/test_source to temp
+[2025-11-21 11:22:57] SUCCESS: Backup created: backup-2025-11-21-1122.tar.gz
+[2025-11-21 11:22:57] INFO: Checksum saved: backup-2025-11-21-1122.tar.gz.sha256
+[2025-11-21 11:22:58] SUCCESS: Backup verified successfully
+[2025-11-21 11:22:59] INFO: Backup process completed
+[2025-11-21 11:23:03] INFO: Backup script started
+[2025-11-21 11:23:03] INFO: Copied /c/Users/lenovo/OneDrive/Desktop/DevopsExample/DevOps-Practice-Test/backup-system/test_source to temp
+[2025-11-21 11:23:03] SUCCESS: Backup created: backup-2025-11-21-1123.tar.gz
+[2025-11-21 11:23:03] INFO: Checksum saved: backup-2025-11-21-1123.tar.gz.sha256
+[2025-11-21 11:23:04] SUCCESS: Backup verified successfully
+[2025-11-21 11:23:05] INFO: Backup process completed
